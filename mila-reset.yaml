@@ -22,8 +22,6 @@ blueprint:
           unit_of_measurement: minutes
     power_entity:
       name: Power
-      selector:
-        device_class: current
     switch_entity:
       name: Switch
       selector:
